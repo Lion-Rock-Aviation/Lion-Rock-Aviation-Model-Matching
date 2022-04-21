@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelMatchRuleSet Folder="" UpdatedOn="12/31/2019 10:45:00 PM">
+
+<!--
+This model matching file was created for members of the VATSIM network.
+It requires the certain Fly Ai Model Matching files and aircraft downloads.
+The necessary files are included in the AI Model Matching Package for Lion Rock Aviation. Please do not re-distribute or upload these files
+outside of the Virtual Airline. This pack is also compatible with previous version of FLAI should you have them installed.
+
+This is Version 1.0, released on (date).
+-->
+
+<!-- Lion Rock Aviation VA -->
+<ModelMatchRule CallsignPrefix="LRA" TypeCode="A321" ModelName="FLAi_FAIB_Airbus_A321_LionRock_SL" />
+<ModelMatchRule CallsignPrefix="LRA" TypeCode="A333" ModelName="Aerosoft A333 professional Lion Rock Aviation VR-LRM" />
+<ModelMatchRule CallsignPrefix="LRA" TypeCode="B738" ModelName="FLAi_FAIB_B738_LRA-Lion Rock" />
+
+</ModelMatchRuleSet>

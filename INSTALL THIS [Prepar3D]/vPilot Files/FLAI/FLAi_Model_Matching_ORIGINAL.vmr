@@ -1103,6 +1103,7 @@ This is Version 1.0, released on (date).
 <ModelMatchRule TypeCode="H500" ModelName="FLAi_A139_Generic//FLAi_A139_Major//FLAi_A139_Bond//FLAi_A139_Bristow//FLAi_A139_Corp//FLAi_A139_CHC//FLAi_A139_CG"/>
 <ModelMatchRule TypeCode="UH1" ModelName="FLAi_A139_Generic//FLAi_A139_Major//FLAi_A139_Bond//FLAi_A139_Bristow//FLAi_A139_Corp//FLAi_A139_CHC//FLAi_A139_CG"/>
 
+</ModelMatchRuleSet>
   <!-- If you have FSX Acceleration, comment out the section above and use this section to substitute the FA-18 aircraft from the Acceleration Pack -->
   <!--
   <ModelMatchRule TypeCode="F18" ModelName="FA-18 Hornet//FA-18 Hornet 1//FA-18 Hornet 2//FA-18 Hornet 3//FA-18 Hornet 4//FA-18 Hornet 5//FA-18 Hornet 6//FA-18 Hornet 7//FA-18 Hornet 8//FA-18 Hornet 9//FA-18 Hornet 10//FA-18 Hornet 11//FA-18 Hornet 12//FA-18 Hornet 13" />
@@ -1115,10 +1116,3 @@ This is Version 1.0, released on (date).
   <ModelMatchRule TypeCode="F18D" ModelName="FA-18 Hornet//FA-18 Hornet 1//FA-18 Hornet 2//FA-18 Hornet 3//FA-18 Hornet 4//FA-18 Hornet 5//FA-18 Hornet 6//FA-18 Hornet 7//FA-18 Hornet 8//FA-18 Hornet 9//FA-18 Hornet 10//FA-18 Hornet 11//FA-18 Hornet 12//FA-18 Hornet 13" />
   <ModelMatchRule TypeCode="F18E" ModelName="FA-18 Hornet//FA-18 Hornet 1//FA-18 Hornet 2//FA-18 Hornet 3//FA-18 Hornet 4//FA-18 Hornet 5//FA-18 Hornet 6//FA-18 Hornet 7//FA-18 Hornet 8//FA-18 Hornet 9//FA-18 Hornet 10//FA-18 Hornet 11//FA-18 Hornet 12//FA-18 Hornet 13" />
   <ModelMatchRule TypeCode="F18F" ModelName="FA-18 Hornet//FA-18 Hornet 1//FA-18 Hornet 2//FA-18 Hornet 3//FA-18 Hornet 4//FA-18 Hornet 5//FA-18 Hornet 6//FA-18 Hornet 7//FA-18 Hornet 8//FA-18 Hornet 9//FA-18 Hornet 10//FA-18 Hornet 11//FA-18 Hornet 12//FA-18 Hornet 13" /> -->
-
-<!-- Lion Rock Aviation VA -->
-<ModelMatchRule CallsignPrefix="LRA" TypeCode="A321" ModelName="FLAi_FAIB_Airbus_A321_LionRock_SL" />
-<ModelMatchRule CallsignPrefix="LRA" TypeCode="A333" ModelName="Aerosoft A333 professional Lion Rock Aviation VR-LRM" />
-<ModelMatchRule CallsignPrefix="LRA" TypeCode="B738" ModelName="FLAi_FAIB_B738_LRA-Lion Rock" />
-
-</ModelMatchRuleSet>

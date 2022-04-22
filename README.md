@@ -21,3 +21,13 @@ Credits to the following authors of the AI Models used in this pack:
 
 - [FAIB](https://fsxaibureau.com/)
 - [TFS](http://www.skycolors.com/ai_aircraft_models_list_fsx_fs2004.htm)
+
+--------------------------
+
+## Installation
+Check under the releases tab for officially supported versions of this pack. Installing directly from any of the branches may result in unknown errors arising. We highly recommend installing the latest stable release for best results.
+
+As this pack is still in active development, X-Plane model matching is currently not supported. If you are able to assist us, join our team by reaching out to us in the discussions tab, in our Discord server, or via [email](enquiry@lionrockaviation.net). 
+
+This pack is constantly updated throughout the week. Unless specifically directed by the team, we highly advise against installing from any of the branches unless you wish to help us test or improve the pack. We will not be able to provide you with any support if you choose to not install an official release.
+

@@ -31,3 +31,7 @@ As this pack is still in active development, X-Plane model matching is currently
 
 This pack is constantly updated throughout the week. Unless specifically directed by the team, we highly advise against installing from any of the branches unless you wish to help us test or improve the pack. We will not be able to provide you with any support if you choose to not install an official release.
 
+--------------------------
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />The Lion Rock Aviation VA Model Matching Pack is distributed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
